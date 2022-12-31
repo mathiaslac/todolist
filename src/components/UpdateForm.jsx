@@ -16,7 +16,7 @@ const UpdateForm = ({ updateData, changeTask, updateTask, cancelUpdate }) => {
           >Update</button>
           <button
             onClick={cancelUpdate}
-            className="btn btn-lg btn-warning"
+            className="btn btn-lg btn-danger"
           >Cancel</button>
         </div>
       </div>
