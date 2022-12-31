@@ -58,11 +58,11 @@ body {
   display: inline-block;
   margin: 0px 10px 0 10px;
   cursor: pointer;
-  color: #00ff89;
+  color: #e083e9;
 }
 
 .taskBg .iconsWrap span:hover {
-  color: yellow;
+  color: #a36ca8;
 }
 
 .mr-20 {
